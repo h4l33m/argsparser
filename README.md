@@ -1,2 +1,2 @@
-# argsparser
+# argparser
 command line interface
